@@ -1,0 +1,23 @@
+{
+  "name": "filemetadata",
+  "version": "1.0.0",
+  "description": "freecodecamp File Metadata Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts":{"start":"node index.js"},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wadeyw/filemetadata.git"
+  },
+  "keywords": [
+    "freecodecamp"
+  ],
+  "author": "Wade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wadeyw/filemetadata/issues"
+  },
+  "homepage": "https://github.com/wadeyw/filemetadata#readme"
+}
