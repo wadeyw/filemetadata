@@ -1,8 +1,8 @@
-//var utils=require('./utils');
+var utils=require('./utils');
 
 $(document).ready(function(){
 document.getElementById("test").innerHTML = "My first paragraph.";  
-//utils.writelog('Client App','Get in client app','INFO');
+utils.writelog('Client App','Get in client app','INFO');
   var submit=document.getElementById('submit');
   var fileload=document.getElementById('fileload');
   var result=document.getElementById('result');
